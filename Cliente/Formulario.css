@@ -1,0 +1,46 @@
+body {
+    background: #FEAC5E;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+
+  h1{
+    font-family: fantasy;
+    font-family:  40px;
+    text-align: center;
+  }
+
+  h2.frase2 {
+    font-family: fantasy;
+      text-align: center;
+    }
+
+    p {
+        font: oblique bold 120% cursive;
+      }
+
+      h2.formulario2{
+        font-family: fantasy;
+    }
+
+    h4.variedades2{
+        font: oblique bold 120% cursive;
+    }
+
+    .left1{
+        text-align: right;
+    }
+    
+    .left2{
+        text-align: right;
+    }
+    .left3{
+        text-align: center;
+    }
+    
+    .left4{
+        text-align: center;
+    }
+    .left5{
+        text-align: center;
+    }
